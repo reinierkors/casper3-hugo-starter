@@ -32,10 +32,10 @@ sections:
   path: README.md
   label: README
   read_only: true
-upload_dir: static/images
-public_path: "/images"
+upload_dir: testsite1
+public_path: https://mytestbucket435.s3-eu-west-1.amazonaws.com
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:
