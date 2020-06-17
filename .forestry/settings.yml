@@ -33,7 +33,7 @@ sections:
   label: README
   read_only: true
 upload_dir: testsite1
-public_path: https://mytestbucket435.s3-eu-west-1.amazonaws.com
+public_path: https://mytestbucket435.s3-eu-west-1.amazonaws.com/testsite1
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
